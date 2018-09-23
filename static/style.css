@@ -1,0 +1,63 @@
+body {
+    background: url('https://images.freecreatives.com/wp-content/uploads/2016/02/Blue-Gradient-Blur-Background-For-Free.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+
+h1{
+    background-color: black;
+    width: 500px;
+    margin: 20px auto;
+    border-radius: 10px;
+    opacity: .7;
+}
+
+.block{
+    background-color: red;
+    opacity: .7;
+    width: 500px;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 20px;
+    color: white;
+}
+
+h2{
+    padding-top: 20px;
+}
+
+h4{
+    padding: 5px;
+}
+
+.icon{
+    width: 200px;
+    height: 200px;
+    color: white;
+}
+
+.forecast_icon{
+    color: white;
+    width: 50px;
+    height: 50px;
+}
+
+.forecast_box{
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+#f, #c{
+    margin-bottom: 20px;
+}
+
+
+
+#search{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
